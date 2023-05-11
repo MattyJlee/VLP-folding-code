@@ -1,0 +1,4 @@
+cd /users/user/desktop/Tetramer_map
+molmap #1 2
+delete #1
+save Best_cloneB_pdb_map_2_surface.STL

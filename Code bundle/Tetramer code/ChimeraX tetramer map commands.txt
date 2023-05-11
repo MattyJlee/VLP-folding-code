@@ -1,0 +1,10 @@
+cd /users/user/desktop/Tetramer_map
+molmap #1 2
+molmap #2 2
+molmap #3 2
+molmap #4 2
+delete #1
+delete #2
+delete #3
+delete #4
+save test_tetramer.obj

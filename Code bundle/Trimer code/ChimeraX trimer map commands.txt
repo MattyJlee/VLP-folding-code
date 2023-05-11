@@ -1,0 +1,8 @@
+cd /users/user/desktop/Trimer_map
+molmap #1 2
+molmap #2 2
+molmap #3 2
+delete #1
+delete #2
+delete #3
+save test_trimer.obj
